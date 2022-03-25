@@ -114,7 +114,7 @@ nav.w3-navbar {
 }
 
 .w3l-banner {
-    background: url(../images/bg.JPG) no-repeat 0px 0px;
+    background: url(../images/bg.webp) no-repeat 0px 0px;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -480,7 +480,7 @@ h3.text-center {
 	padding:6em 0;
 }
 .about_left {
-    background: url(../images/about.jpg) no-repeat 0px 0px;
+    background: url(../images/about.webp) no-repeat 0px 0px;
     background-size: cover;
     min-height: 500px;
     padding: 5em 0em 0 4em;
@@ -560,7 +560,7 @@ ul.address li ul.agileits-address-text li a {
 }
 
 .w3-services{
-   background: url(../images/services.jpg) no-repeat 0px 0px;
+   background: url(../images/services.webp) no-repeat 0px 0px;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -625,7 +625,7 @@ ul.address li ul.agileits-address-text li a {
 	color:#fff;
 }
 .stats{
-	background: url(../images/services.jpg) no-repeat 0px 0px;
+	background: url(../images/services.webp) no-repeat 0px 0px;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -750,7 +750,7 @@ img.zoom-img:hover {
 }
 
 .skills-agileinfo {
-    background: url(../images/skills.jpg)no-repeat 0px 0px;
+    background: url(../images/skills.webp)no-repeat 0px 0px;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
