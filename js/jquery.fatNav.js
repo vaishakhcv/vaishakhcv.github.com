@@ -19,10 +19,7 @@
             var $hamburger = this.$hamburger = $('<a href="javascript:void(0)" class="hamburger"><div class="hamburger__icon"></div></a>');
             
             this._bodyOverflow = $('body').css('overflow');
-
-            // Hack to prevent mobile safari scrolling the whole body when nav is open
-            if (navigator.userAgent.match(/(iPad|iPhone|iPod)/g)) {
-                
+                if (navigator.userAgent.match(/(iPad|iPhone|iPod)/g)) {             
                 $nav.children().css({
                     'height': '110%',
                     'transform': 'translateY(-5%)'
